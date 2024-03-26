@@ -36,5 +36,7 @@ sudo apt-get install jenkins
 * Security groups
 * Add inbound traffic rules as shown in the image (you can just allow TCP 8080 as well, in my case, I allowed All traffic).
 
-![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/021ad16d-a89e-4d75-b335-6055b896f0fe)
+
+![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/ad45edce-a616-45e9-a273-8e16607e67f4)
+
 
