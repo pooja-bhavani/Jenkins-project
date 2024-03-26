@@ -39,7 +39,6 @@ sudo apt-get install jenkins
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/cb8ac6b6-bdd6-4432-84b7-49760df846c2)
 
 Login to Jenkins using the URL:
-
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/dc3df650-5f8a-4655-83e5-5641eb12c25c)
 
 
