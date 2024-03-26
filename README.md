@@ -6,5 +6,18 @@ Firstly, we will launch EC2 instance,then install jenkins and use docker as agen
 * Go to AWS console
 * Instances (running)
 * Launch EC2 instances
-![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/19828c4f-a25e-49cc-8ec0-c046a218e8cb)  
+![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/e67db38f-a7ac-4a84-8dcc-4f5a06d9e343)
 
+# Install Jenkins.
+# Run the below commands to install Java and Jenkins
+
+Install java
+
+````
+sudo apt update
+sudo apt install openjdk-11-jre
+````
+Verify weather Java is Installed
+```
+java --version
+```
