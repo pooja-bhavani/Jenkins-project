@@ -48,6 +48,24 @@ Now, create First Admin User
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/8ab3f348-553d-4159-bfa0-a0601f5f397c)
 Jenkins Installation is Successful. You can now starting using the Jenkins
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/d76089a9-d643-4556-a7ae-766d6f684b24)
+# Docker configuration
+```
+sudo apt update
+sudo apt install docker.io
+```
+# Install the Docker Pipeline plugin in Jenkins:
+ * Log in to Jenkins.
+ * Go to Manage Jenkins -> Manage Plugins.
+ * In the Available tab, search for "Docker Pipeline".
+ * Select the plugin and click the Install button.
+ * Restart Jenkins after the plugin is installed.
+
+
+
+
+
+
+
 
 
 
