@@ -67,6 +67,7 @@ usermod -aG docker jenkins
 usermod -aG docker ubuntu
 systemctl restart docker
 ```
+![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/f7d1959d-5cc0-4945-8319-ac04b353ccfe)
 
 
 
