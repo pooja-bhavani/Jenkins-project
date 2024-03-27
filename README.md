@@ -43,8 +43,10 @@ Login to Jenkins using the URL:
  Click on Install suggested plugins
  
  Wait for the Jenkins to Install suggested plugins
-![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/c5fb048f-58cc-44dc-8d3b-2ddad7c5520f)
+ ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/3b7ca4f1-bb95-4a40-baf7-9d8f0294876c)
 Jenkins Installation is Successful. You can now starting using the Jenkins
+![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/c5fb048f-58cc-44dc-8d3b-2ddad7c5520f)
+
 
 
 
