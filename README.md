@@ -60,6 +60,14 @@ sudo apt install docker.io
  * Select the plugin and click the Install button.
  * Restart Jenkins after the plugin is installed.
 
+ # Grant Jenkins user and Ubuntu user permission to docker deamon.
+```
+sudo su - 
+usermod -aG docker jenkins
+usermod -aG docker ubuntu
+systemctl restart docker
+```
+
 
 
 
