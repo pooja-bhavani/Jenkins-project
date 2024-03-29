@@ -10,3 +10,11 @@ stages {
     }
   }
 }
+stages {
+  stage('deploy') {
+    steps {
+      sh 'kubectl apply -f deployment.yml'
+     }
+    }
+  }
+}
