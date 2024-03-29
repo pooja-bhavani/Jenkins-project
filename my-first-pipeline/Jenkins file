@@ -6,8 +6,6 @@ stages {
   stage('Test') {
     steps {
       sh 'node --version'
-     }
-    }
   }
 }
 stages {
