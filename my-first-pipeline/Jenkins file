@@ -6,16 +6,6 @@ stages {
   stage('Test') {
     steps {
       sh 'node --version'
-  }
-}
-  stage('deploy') {
-    steps {
-      sh 'kubectl apply -f deployment.yml'
-     }
-  }
-  stage('Test') {
-    steps {
-      sh 'node --version'
      }
     }
   } 
