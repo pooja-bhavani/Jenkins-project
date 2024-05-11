@@ -64,7 +64,7 @@ systemctl restart docker
 # Install the Docker Pipeline plugin in Jenkins:
  * Log in to Jenkins.
  * Go to Manage Jenkins -> Manage Plugins.
- * In the Available tab, search for "Docker Pipeline". 
+ * In the Available tab, search for "Docker Pipeline".
  * Select the plugin and click the Install button.
  * Restart Jenkins after the plugin is installed.
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/5731e405-e670-4e9d-858e-bc26a3357260)
