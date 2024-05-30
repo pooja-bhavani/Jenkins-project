@@ -1,4 +1,4 @@
-# A simple jenkins pipeline to verify weather docker agent configuration is working as expected.
+# A simple jenkins pipeline to verify weather dockeragent configuration is working as expected.
 # Build process
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/2dbeb5b8-17bf-4127-949c-70f2a39aba9b)
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/33643736-c9c0-4512-83a6-a963711218ee)
