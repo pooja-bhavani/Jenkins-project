@@ -15,7 +15,7 @@ Install java
 
 ````
 sudo apt update
-sudo apt install openjdk-11-je
+sudo apt install openjdk-11-jre
 ````
 Verify weather Java is Installed
 ```
