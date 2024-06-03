@@ -70,7 +70,7 @@ systemctl restart docker
 ![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/5731e405-e670-4e9d-858e-bc26a3357260)
 
 
-![image](https://github.com/pooja-bhavani/Jenkins-project/assets/147735975/ba9d4c06-534d-4be7-ad61-c672cfef6195)
+
 
 
 
