@@ -1,27 +1,13 @@
 ![image](https://github.com/user-attachments/assets/008db4c5-55c2-43db-920b-81fa27c81030)
 Create a freestyle pipeline to print "Hello World!!"
 Launch your instance in AWS and set up the Jenkins server on your instance using these commands
+![image](https://github.com/user-attachments/assets/04cf3329-869a-4e70-8b79-b55dae231080)
+````
+$ sudo apt-get update
+$ sudo apt-get install jenkins
+````
 
 
-
-
-
-COPY
-
-COPY
-sudo apt update
-sudo apt install openjdk-17-jre
-
-COPY
-
-COPY
-curl -fsSL https://pkg.jenkins.io/debian/jenkins.io-2023.key | sudo tee \
-  /usr/share/keyrings/jenkins-keyring.asc > /dev/null
-echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \
-  https://pkg.jenkins.io/debian binary/ | sudo tee \
-  /etc/apt/sources.list.d/jenkins.list > /dev/null
-sudo apt-get update
-sudo apt-get install jenkins
 
 
 Allow inbound traffic on port 8080 for Jenkins in the AWS security group.
