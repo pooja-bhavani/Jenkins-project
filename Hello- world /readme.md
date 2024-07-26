@@ -50,7 +50,8 @@ Then click apply and save. So, your job is created.
 
 Step 7: Now, we will run it for which click the ‘build now’ option and a building history will be created then click on it.
 ![image](https://github.com/user-attachments/assets/b83fc37c-101a-4063-b283-a631ec12ca19)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ad28c944-eca9-4985-accd-a86f3059cb2c)
+
 
 
 
