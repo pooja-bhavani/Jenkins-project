@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/008db4c5-55c2-43db-920b-81fa27c81030)
-Create a freestyle pipeline to print "Hello World!!"
-Launch your instance in AWS and set up the Jenkins server on your instance using these commands
+# Create a freestyle pipeline to print "Hello World!!"
+1. Launch your instance in AWS and set up the Jenkins server on your instance using these commands
 ![image](https://github.com/user-attachments/assets/04cf3329-869a-4e70-8b79-b55dae231080)
 ````
 $ sudo apt-get update
